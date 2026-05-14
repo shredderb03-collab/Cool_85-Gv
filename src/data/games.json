@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=200&h=200&auto=format&fit=crop",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "tags": ["math", "minimal"]
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "thumbnail": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=200&h=200&auto=format&fit=crop",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Puzzle",
+    "tags": ["classic", "blocks"]
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "description": "The timeless arcade classic.",
+    "thumbnail": "https://images.unsplash.com/photo-1484069011184-0988cc6086b9?q=80&w=200&h=200&auto=format&fit=crop",
+    "iframeUrl": "https://www.google.com/search?q=play+snake",
+    "category": "Arcade",
+    "tags": ["retro", "fast"]
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Waka waka waka! Avoid the ghosts.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=200&h=200&auto=format&fit=crop",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Retro",
+    "tags": ["google", "doodle"]
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Speed down the slope avoid obstacles.",
+    "thumbnail": "https://images.unsplash.com/photo-1616091216791-a5360b5fc78e?q=80&w=200&h=200&auto=format&fit=crop",
+    "iframeUrl": "https://slopegame.io/index.html",
+    "category": "Action",
+    "tags": ["3d", "speed"]
+  }
+]

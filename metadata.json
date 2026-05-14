@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Games",
+  "description": "A clean, responsive, and unblocked games delivery platform that loads content dynamically from a curated JSON catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
